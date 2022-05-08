@@ -68,15 +68,6 @@ Run `npm start` to start the webpack server, you can now navigate to `http://loc
 
    `npm test`
 
-## Authors
-
-👤 **Ebeagu Samuel**
-
-- Email: [samuelebeagu@gmail.com](samuelebeagu@gmail.com)
-- Github: [ebeagusamuel](https://github.com/ebeagusamuel)
-- Twitter: [@ebeagu_samuel](https://twitter.com/ebeagu_samuel)
-- Linkedin: [Samuel Ebeagu](https://www.linkedin.com/in/ebeagusamuel/)
-
 ## 🤝 Contributing
 
 Our favourite contributions are those that help us improve the project, whether with a contribution, an issue, or a feature request!
